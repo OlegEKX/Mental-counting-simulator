@@ -1,1 +1,2 @@
 # Mental-counting-simulator
+#  ТЗ
